@@ -58,8 +58,15 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
+I'm currently learning JavaScript and building small projects to sharpen my skills. Feedback is welcome!
+
 Joel Anarba - [GitHub Profile](https://github.com/joelanarba)
 
 Project Link: [Secret Number Quest](https://github.com/joelanarba/Secret-Number-Quest)
 
 LiveSite Link: [Secret Number Quest](https://github.com/joelanarba/Secret-Number-Quest)
+
+## Acknowledgment
+
+This project was built as part of the Ultimate JavaScript course by Jonas Schmedtmann.
+I followed along to practice and reinforce my understanding of JavaScript fundamentals.
